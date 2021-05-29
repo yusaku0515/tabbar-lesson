@@ -3,8 +3,8 @@ const ccxt = require('ccxt');
 
 
 const bitflyer = new ccxt.bitflyer({
-    apiKey: 'XJtWFb5jcbh8q9b6h7yzp3',
-    secret: '4JOpP5QRlj7BNC2An+rhvolzZo2EJr0W3frcwwDr8i8=',
+    apiKey: '',
+    secret: '',
 })
 const interval = 3000
 const records = []
